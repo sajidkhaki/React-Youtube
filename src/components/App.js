@@ -54,7 +54,6 @@ class App extends React.Component {
             <div className="eight wide column">
               <p style={{ fontSize: "18px", color:"green" }}>COMPUTER SCIENCE POSTGRADUATE FROM THE UNIVERSITY OF KASHMIR.
               MICROSOFT STUDENT PARTNER AND WINDOWS U-CREW MEMBER.</p>
-
               <span style ={{fontSize:"20px"}} >Full stack Developer</span>
 
               <Header as='h4' color='white'>
